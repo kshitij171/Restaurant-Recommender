@@ -1,4 +1,4 @@
-Restaurant Recommender System Developer
+# Restaurant Recommender System Developer
 
 Designed and implemented a Restaurant Recommender System based on the research paper "Improving collaborative filtering recommender system results and performance using genetic algorithms."
 
